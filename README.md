@@ -1,6 +1,6 @@
 # Assessment for Week 1
 
-Being a developer requires an acute attention to detail. The expectation of this assessment is that all instructions are read carefully and followed completely.
+Being a developer requires acute attention to detail. The expectation of this assessment is that all instructions are read carefully and followed completely.
 
 A good developer will ask clarifying questions when a task is unclear and use all the resources at their disposal.
 
